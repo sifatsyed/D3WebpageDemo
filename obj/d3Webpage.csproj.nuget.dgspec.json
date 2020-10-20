@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sifat\\source\\repos\\d3Webpage\\d3Webpage.csproj": {}
+    "C:\\Users\\sifat\\source\\repos\\D3WebpageDemo\\d3Webpage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sifat\\source\\repos\\d3Webpage\\d3Webpage.csproj": {
+    "C:\\Users\\sifat\\source\\repos\\D3WebpageDemo\\d3Webpage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sifat\\source\\repos\\d3Webpage\\d3Webpage.csproj",
+        "projectUniqueName": "C:\\Users\\sifat\\source\\repos\\D3WebpageDemo\\d3Webpage.csproj",
         "projectName": "d3Webpage",
-        "projectPath": "C:\\Users\\sifat\\source\\repos\\d3Webpage\\d3Webpage.csproj",
+        "projectPath": "C:\\Users\\sifat\\source\\repos\\D3WebpageDemo\\d3Webpage.csproj",
         "packagesPath": "C:\\Users\\sifat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sifat\\source\\repos\\d3Webpage\\obj\\",
+        "outputPath": "C:\\Users\\sifat\\source\\repos\\D3WebpageDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sifat\\AppData\\Roaming\\NuGet\\NuGet.Config",
